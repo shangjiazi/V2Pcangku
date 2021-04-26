@@ -6,7 +6,7 @@ const suburl = 'https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/ziye-ga
 
 const webhook = {
   url: '/webhook',              // 远程： http://sss.xxxx.com/webhook
-  token: 'f422723c-1613-4c93-8cc4-af41ef6aa87c',     // 在 webUI->SETTING 界面查找
+  token: '94a819ef-1bf6-42d8-a52c-3535c91ad74d',     // 在 webUI->SETTING 界面查找
 }
 
 $axios(suburl).then(res=>{
