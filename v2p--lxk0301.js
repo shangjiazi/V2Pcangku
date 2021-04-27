@@ -4,11 +4,11 @@
 
 
 
-const suburl = 'https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json'
+const suburl = 'https://raw.githubusercontent.com/shangjiazi/V2Pcangku/main/LXK9301.json'
 
 const webhook = {
   url: '/webhook',              // 远程： http://sss.xxxx.com/webhook
-  token: '94a819ef-1bf6-42d8-a52c-3535c91ad74d',     // 在 webUI->SETTING 界面查找
+  token: '543cce39-afa1-405e-bf40-78f1e726ae11',     // 在 webUI->SETTING 界面查找
 }
 
 $axios(suburl).then(res=>{
