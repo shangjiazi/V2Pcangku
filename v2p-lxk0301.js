@@ -4,7 +4,7 @@
 
 
 
-const suburl = 'https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json'
+const suburl = 'https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json'
 
 const webhook = {
   url: '/webhook',              // 远程： http://sss.xxxx.com/webhook
