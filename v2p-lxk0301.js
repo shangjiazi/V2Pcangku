@@ -2,6 +2,8 @@
 // 每次运行都会添加新任务，请不要多次运行
 // 这只是一个简单的范例，如果出现未知问题，手动修正一下代码
 
+
+
 const suburl = 'https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json'
 
 const webhook = {
