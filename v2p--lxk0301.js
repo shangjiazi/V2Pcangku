@@ -3,7 +3,6 @@
 // 这只是一个简单的范例，如果出现未知问题，手动修正一下代码
 
 
-
 const suburl = 'https://raw.githubusercontent.com/shangjiazi/V2Pcangku/main/LXK9301.json'
 
 const webhook = {
