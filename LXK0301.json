@@ -239,6 +239,24 @@
       }
     },
     {
+      "name": "京小兑",
+      "type": "cron",
+      "time": "30 8,16,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": " https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js"
+      }
+    },
+    {
+      "name": "京喜农场",
+      "type": "cron",
+      "time": "0 9,12,18 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js"
+      }
+    },
+    {
       "name": "京东快递签到",
       "type": "cron",
       "time": "10 0 * * *",
@@ -275,6 +293,15 @@
       }
     },
     {
+      "name": "5G超级盲盒",
+      "type": "cron",
+      "time": "0 0,1-23/3 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mohe.js"
+      }
+    },
+    {
       "name": "京东摇钱树",
       "type": "cron",
       "time": "3 0-23/2 * * *",
@@ -290,6 +317,24 @@
       "job": {
         "type": "runjs",
         "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js"
+      }
+    },
+    {
+      "name": "女装盲盒",
+      "type": "cron",
+      "time": "35 1,23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js"
+      }
+    },
+    {
+      "name": "点点券",
+      "type": "cron",
+      "time": "10 0,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js"
       }
     },
     {
@@ -326,6 +371,15 @@
       "job": {
         "type": "runjs",
         "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_price.js"
+      }
+    },
+    {
+      "name": "京东全民开红包",
+      "type": "cron",
+      "time": "1 1,2,23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_redPacket.js"
       }
     },
     {
@@ -389,6 +443,15 @@
       "job": {
         "type": "runjs",
         "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js"
+      }
+    },
+    {
+      "name": "赚京豆",
+      "type": "cron",
+      "time": "10 0,7,23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js"
       }
     },
     {
