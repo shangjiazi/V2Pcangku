@@ -63,7 +63,7 @@
             "time": "15 0,1,8,15,20 * * *",
             "job": {
                 "type": "runjs",
-                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js"
+                "target": "https://raw.githubusercontents.com/leafxcy/JavaScript/main/daw.js"
             }
         }
     ]
