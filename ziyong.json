@@ -23,7 +23,7 @@
     {
     "match": "https://v3.sdk.haowusong.com/api/box/wallet/info",
     "stage": "req",
-    "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js",
+    "target": "https://raw.githubusercontents.com/leafxcy/JavaScript/main/daw.js",
     "enable": true
     }
   ],
