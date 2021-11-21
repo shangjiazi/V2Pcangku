@@ -3,7 +3,7 @@
   "type": "rewrite",
   "note": "仅供参考",
   "author": "leaf",
-  "resource": "jctq_rewrite_subscribe.json",
+  "resource": "https://raw.githubusercontents.com/shangjiazi/V2Pcangku/main/ziyong.json",
   "mitmhost": [
     "v3.sdk.haowusong.com"
   ],
